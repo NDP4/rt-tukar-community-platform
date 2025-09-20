@@ -71,7 +71,6 @@ _Example of Granite AI providing intelligent code suggestions and solutions_
 - **Auto-cleanup**: Automatic removal of old notifications
 - **Auto-cleanup**: Notifikasi lama otomatis terhapus
 
-### 🎨 Dark/Light Mode Support
 
 ### 🎨 Dark/Light Mode Support
 
@@ -150,8 +149,8 @@ _Example of Granite AI providing intelligent code suggestions and solutions_
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repo-url>
-cd tukar
+git clone https://github.com/NDP4/rt-tukar-community-platform.git
+cd rt-tukar-community-platform
 npm install
 ```
 
